@@ -8,3 +8,5 @@ data_backup_10k/
 all_articles.csv
 all_articles_10k.csv
 all_articles_old.csv
+probe.py
+probe2.py
