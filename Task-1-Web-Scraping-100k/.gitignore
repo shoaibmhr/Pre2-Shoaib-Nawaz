@@ -2,6 +2,7 @@ __pycache__/
 *.log
 .venv/
 .venv2/
+.env
 *.rejected.txt
 data_backup_10k/
 all_articles.csv
