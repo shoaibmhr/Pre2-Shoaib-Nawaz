@@ -1,7 +1,7 @@
 # Task 2: Data Preprocessing
 
 Input: Task-1 raw dataset (100000 articles, `Task-1-Web-Scraping-100k/dataset/`)
-Output: `output/articles_clean_part1..5.csv.zip` (96934 articles)
+Output: `output/articles_clean_part1..5.csv.zip` (96922 articles)
 
 ## Cleaning steps
 
@@ -11,8 +11,9 @@ Output: `output/articles_clean_part1..5.csv.zip` (96934 articles)
 - Very long articles (5000+ words: live blogs, transcripts, deal trackers) removed: 362
 - HTML tags, URLs, emails and extra spaces removed from content
 - Title spacing fixed
+- Duplicates re-checked after text cleaning: 12 removed
 
-Total: 100000 -> 96934 articles
+Total: 100000 -> 96922 articles
 
 ## Columns
 
@@ -32,7 +33,7 @@ Then open `preprocessing.ipynb` and run all cells.
 
 ## Load clean data into PostgreSQL
 
-Clean data is stored in a separate table `articles_clean` (96934 rows). The raw
+Clean data is stored in a separate table `articles_clean` (96922 rows). The raw
 table `articles` (100000 rows, from Task-1) is left untouched.
 
 1. Create a database named `newsdb`.
@@ -40,11 +41,7 @@ table `articles` (100000 rows, from Task-1) is left untouched.
 
         DATABASE_URL=postgresql://postgres:YOUR_PASSWORD@localhost:5432/newsdb
 
-3. Install the extra libraries:
-
-        pip install "psycopg[binary]" python-dotenv
-
-4. Run the loader (it creates the table from `schema_clean.sql` and loads
+3. Run the loader (it creates the table from `schema_clean.sql` and loads
    the data from `output/articles_clean_part*.csv.zip`):
 
         python load_clean_to_postgres.py
@@ -53,7 +50,7 @@ Table columns: id, title, description, published_at, author_name, content, url, 
 
 Check in PostgreSQL:
 
-    SELECT count(*) FROM articles_clean;   -- 96934
+    SELECT count(*) FROM articles_clean;   -- 96922
 
 Files:
 - `schema_clean.sql`: table structure
