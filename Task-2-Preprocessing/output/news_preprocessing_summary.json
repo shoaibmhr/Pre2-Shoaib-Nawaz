@@ -1,0 +1,17 @@
+{
+  "raw_rows": 100000,
+  "clean_rows": 97241,
+  "rejected_rows": 2759,
+  "review_rows": 382,
+  "reject_reasons": {
+    "duplicate_content": 1250,
+    "puzzle_template": 1149,
+    "too_long_5000_words": 362
+  },
+  "review_reasons": {
+    "duplicate_title": 329,
+    "possible_block_or_paywall": 50,
+    "future_publication_date": 2,
+    "short_title": 1
+  }
+}

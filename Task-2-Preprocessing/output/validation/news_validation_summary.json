@@ -1,0 +1,15 @@
+{
+  "input_rows": 97241,
+  "total_issues": 670,
+  "issues_by_rule": {
+    "DUP_003": 617,
+    "TEXT_001": 1,
+    "TEXT_003": 50,
+    "TIME_003": 2
+  },
+  "dispositions": {
+    "accept": 96571,
+    "warning": 670,
+    "quarantine": 0
+  }
+}
