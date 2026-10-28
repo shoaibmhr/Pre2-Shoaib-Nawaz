@@ -29,3 +29,33 @@ Run from inside the Task-2-Preprocessing folder:
     pip install -r requirements.txt
 
 Then open `preprocessing.ipynb` and run all cells.
+
+## Load clean data into PostgreSQL
+
+Clean data is stored in a separate table `articles_clean` (96934 rows). The raw
+table `articles` (100000 rows, from Task-1) is left untouched.
+
+1. Create a database named `newsdb`.
+2. Copy `.env.example` to `.env` and write your password:
+
+        DATABASE_URL=postgresql://postgres:YOUR_PASSWORD@localhost:5432/newsdb
+
+3. Install the extra libraries:
+
+        pip install "psycopg[binary]" python-dotenv
+
+4. Run the loader (it creates the table from `schema_clean.sql` and loads
+   the data from `output/articles_clean_part*.csv.zip`):
+
+        python load_clean_to_postgres.py
+
+Table columns: id, title, description, published_at, author_name, content, url, source
+
+Check in PostgreSQL:
+
+    SELECT count(*) FROM articles_clean;   -- 96934
+
+Files:
+- `schema_clean.sql`: table structure
+- `load_clean_to_postgres.py`: loads the zip parts into PostgreSQL
+- `.env.example`: example of the connection settings (the real `.env` is not on GitHub)
