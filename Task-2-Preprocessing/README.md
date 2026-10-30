@@ -23,6 +23,7 @@ Version 2 (lecture-based pipeline) starts from the raw data:
 - duplicate content: 1250
 - puzzle/template pages (Wordle, Connections, Strands): 1149
 - very long articles (5000+ words: live blogs, transcripts): 362
+- Near duplicate 180;
 
 ### Review: 382 (kept in clean data, listed in `output/news_review.csv`)
 
@@ -77,7 +78,7 @@ Table columns: id, title, description, published_at, author_name, content, url, 
 
 Check in PostgreSQL:
 
-    SELECT count(*) FROM articles_clean;   -- 97241
+    SELECT count(*) FROM articles_clean;   -- 96732
 
 ## Files
 
