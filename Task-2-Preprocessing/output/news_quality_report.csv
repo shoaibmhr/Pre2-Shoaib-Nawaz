@@ -1,7 +1,7 @@
 ﻿field,non_missing,missing,completeness_pct
-url,96732,0,100.0
-title_clean,96732,0,100.0
-published_at_utc,96732,0,100.0
-author_name_clean,94169,2563,97.35
-content_clean,96732,0,100.0
-description_clean,96732,0,100.0
+url,96709,0,100.0
+title_clean,96709,0,100.0
+published_at_utc,96709,0,100.0
+author_name_clean,94147,2562,97.35
+content_clean,96709,0,100.0
+description_clean,96709,0,100.0

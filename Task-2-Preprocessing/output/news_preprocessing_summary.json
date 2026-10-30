@@ -1,13 +1,14 @@
 {
   "raw_rows": 100000,
-  "clean_rows": 96732,
-  "rejected_rows": 3268,
+  "clean_rows": 96709,
+  "rejected_rows": 3291,
   "review_rows": 0,
   "reject_reasons": {
     "duplicate_content": 1250,
     "puzzle_template": 1149,
-    "too_long_5000_words": 362,
+    "too_long_5000_words": 366,
     "duplicate_title": 329,
-    "near_duplicate": 180
+    "near_duplicate": 180,
+    "duplicate_title_normalized": 19
   }
 }
