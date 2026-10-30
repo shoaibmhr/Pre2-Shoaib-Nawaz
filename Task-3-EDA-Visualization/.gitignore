@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.bak
+.ipynb_checkpoints/
+
+# Ignore large datasets exceeding GitHub 100MB limits
+eda_output/articles_with_niche.csv
+eda_output/by_category/

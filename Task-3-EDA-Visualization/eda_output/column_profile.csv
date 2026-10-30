@@ -1,0 +1,9 @@
+,dtype,non_null,missing,missing_pct,unique
+title,str,96709,0,0.0,96709
+description,str,96709,0,0.0,95790
+date_of_publication,str,96709,0,0.0,1805
+author_name,str,94147,2562,2.65,7518
+content,str,96709,0,0.0,96709
+url,str,96709,0,0.0,96709
+source,str,96709,0,0.0,16
+domain,str,96709,0,0.0,16
