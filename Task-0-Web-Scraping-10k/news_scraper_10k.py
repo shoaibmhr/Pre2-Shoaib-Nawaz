@@ -45,7 +45,7 @@ USER_AGENT = (
     "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 )
 
-# 1LAKH (A): quality filters
+
 MIN_WORDS = 80
 BOILERPLATE = re.compile(
     r"NPR does not offer|Copyright ©|hide caption|Accuracy and availability of NPR|"
