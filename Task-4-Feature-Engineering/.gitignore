@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.bak
+.ipynb_checkpoints/
+
+# Exclude large exported matrices and heavy pickles exceeding GitHub limits
+fe_output/*.pkl
+fe_output/*.npy
