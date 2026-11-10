@@ -1,0 +1,1337 @@
+0
+title_char_count
+title_word_count
+title_avg_word_length
+title_digit_count
+title_uppercase_count
+title_uppercase_ratio
+title_exclamation_count
+title_question_count
+title_comma_count
+title_colon_count
+title_parentheses_count
+title_unique_word_ratio
+title_has_number
+title_quote_count
+title_allcaps_word_count
+title_starts_with_digit
+body_word_count
+body_sentence_count
+body_avg_sentence_length
+body_number_count
+body_url_count
+body_avg_word_length
+body_unique_word_ratio
+body_uppercase_word_count
+body_comma_count
+body_question_count
+body_exclamation_count
+body_quote_count
+body_number_density
+financial_keyword_count
+url_length
+url_path_depth
+url_slug_length
+url_slug_word_count
+title_body_length_ratio
+financial_keyword_density
+title_tfidf_2022
+title_tfidf_2026
+title_tfidf_24 2022
+title_tfidf_abortion
+title_tfidf_ai
+title_tfidf_ai agents
+title_tfidf_ai is
+title_tfidf_ai to
+title_tfidf_airpods
+title_tfidf_amazon
+title_tfidf_amid
+title_tfidf_an ai
+title_tfidf_and
+title_tfidf_and it
+title_tfidf_android
+title_tfidf_anthropic
+title_tfidf_app
+title_tfidf_apple
+title_tfidf_apple watch
+title_tfidf_apps
+title_tfidf_army
+title_tfidf_as
+title_tfidf_attack
+title_tfidf_attacks
+title_tfidf_bank
+title_tfidf_banks
+title_tfidf_batteries
+title_tfidf_battery
+title_tfidf_battery life
+title_tfidf_best
+title_tfidf_biden
+title_tfidf_bitcoin
+title_tfidf_blood
+title_tfidf_campaign
+title_tfidf_canada
+title_tfidf_cancer
+title_tfidf_care
+title_tfidf_cdc
+title_tfidf_ceasefire
+title_tfidf_central
+title_tfidf_central bank
+title_tfidf_change
+title_tfidf_chatgpt
+title_tfidf_china
+title_tfidf_chinese
+title_tfidf_chip
+title_tfidf_claude
+title_tfidf_climate
+title_tfidf_climate change
+title_tfidf_cloud
+title_tfidf_coal
+title_tfidf_congo
+title_tfidf_congress
+title_tfidf_court
+title_tfidf_covid
+title_tfidf_crude
+title_tfidf_crypto
+title_tfidf_cup
+title_tfidf_deals
+title_tfidf_deals of
+title_tfidf_defense
+title_tfidf_democrats
+title_tfidf_diesel
+title_tfidf_disease
+title_tfidf_doctor
+title_tfidf_doctors
+title_tfidf_donald trump
+title_tfidf_drone
+title_tfidf_drone attack
+title_tfidf_drones
+title_tfidf_drug
+title_tfidf_drugs
+title_tfidf_ebola
+title_tfidf_economic
+title_tfidf_economy
+title_tfidf_election
+title_tfidf_elections
+title_tfidf_electricity
+title_tfidf_energy
+title_tfidf_eu
+title_tfidf_fda
+title_tfidf_feature
+title_tfidf_features
+title_tfidf_feb
+title_tfidf_feb 24
+title_tfidf_fed
+title_tfidf_flu
+title_tfidf_for ai
+title_tfidf_for ukraine
+title_tfidf_foreign
+title_tfidf_fuel
+title_tfidf_galaxy
+title_tfidf_game
+title_tfidf_gaming
+title_tfidf_gas
+title_tfidf_gaza
+title_tfidf_gemini
+title_tfidf_general
+title_tfidf_general staff
+title_tfidf_generative
+title_tfidf_generative ai
+title_tfidf_glasses
+title_tfidf_google
+title_tfidf_google pixel
+title_tfidf_gop
+title_tfidf_government
+title_tfidf_growth
+title_tfidf_has lost
+title_tfidf_health
+title_tfidf_health care
+title_tfidf_healthcare
+title_tfidf_here
+title_tfidf_hong
+title_tfidf_hong kong
+title_tfidf_hormuz
+title_tfidf_hospital
+title_tfidf_house
+title_tfidf_how to
+title_tfidf_imf
+title_tfidf_in
+title_tfidf_in russia
+title_tfidf_in ukraine
+title_tfidf_inflation
+title_tfidf_interest
+title_tfidf_interest rates
+title_tfidf_internet
+title_tfidf_investors
+title_tfidf_ios
+title_tfidf_ipad
+title_tfidf_iphone
+title_tfidf_ipo
+title_tfidf_iran
+title_tfidf_iran war
+title_tfidf_is
+title_tfidf_israel
+title_tfidf_israeli
+title_tfidf_its
+title_tfidf_its ai
+title_tfidf_jr
+title_tfidf_kong
+title_tfidf_kremlin
+title_tfidf_kyiv
+title_tfidf_laptop
+title_tfidf_league
+title_tfidf_lng
+title_tfidf_mac
+title_tfidf_macbook
+title_tfidf_market
+title_tfidf_measles
+title_tfidf_medical
+title_tfidf_mental
+title_tfidf_mental health
+title_tfidf_meta
+title_tfidf_microsoft
+title_tfidf_military
+title_tfidf_minister
+title_tfidf_missile
+title_tfidf_model
+title_tfidf_models
+title_tfidf_moscow
+title_tfidf_my
+title_tfidf_nato
+title_tfidf_new ai
+title_tfidf_now
+title_tfidf_nuclear
+title_tfidf_nuclear power
+title_tfidf_nvidia
+title_tfidf_oblast
+title_tfidf_occupied
+title_tfidf_of ai
+title_tfidf_off
+title_tfidf_oil
+title_tfidf_oil and
+title_tfidf_oil prices
+title_tfidf_oil refinery
+title_tfidf_oil spill
+title_tfidf_on amazon
+title_tfidf_on ukraine
+title_tfidf_openai
+title_tfidf_outbreak
+title_tfidf_pandemic
+title_tfidf_patients
+title_tfidf_peace
+title_tfidf_phone
+title_tfidf_pipeline
+title_tfidf_pixel
+title_tfidf_plant
+title_tfidf_political
+title_tfidf_politics
+title_tfidf_power
+title_tfidf_power bank
+title_tfidf_power plant
+title_tfidf_president
+title_tfidf_prices
+title_tfidf_prime
+title_tfidf_prime day
+title_tfidf_pro
+title_tfidf_putin
+title_tfidf_rally
+title_tfidf_rate
+title_tfidf_rates
+title_tfidf_refinery
+title_tfidf_refinery in
+title_tfidf_region
+title_tfidf_republicans
+title_tfidf_reserve
+title_tfidf_review
+title_tfidf_rfk
+title_tfidf_rfk jr
+title_tfidf_robot
+title_tfidf_russia
+title_tfidf_russia has
+title_tfidf_russian
+title_tfidf_russian attacks
+title_tfidf_russian oil
+title_tfidf_russians
+title_tfidf_s26
+title_tfidf_sale
+title_tfidf_samsung
+title_tfidf_samsung galaxy
+title_tfidf_sanctions
+title_tfidf_saudi
+title_tfidf_says
+title_tfidf_senate
+title_tfidf_shares
+title_tfidf_since
+title_tfidf_since feb
+title_tfidf_siri
+title_tfidf_smart
+title_tfidf_software
+title_tfidf_solar
+title_tfidf_spacex
+title_tfidf_spill
+title_tfidf_staff russia
+title_tfidf_star
+title_tfidf_stock
+title_tfidf_stocks
+title_tfidf_strait
+title_tfidf_streaming
+title_tfidf_street
+title_tfidf_strike
+title_tfidf_strikes
+title_tfidf_summit
+title_tfidf_supreme
+title_tfidf_supreme court
+title_tfidf_surgery
+title_tfidf_talks
+title_tfidf_tariff
+title_tfidf_tariffs
+title_tfidf_tech
+title_tfidf_tesla
+title_tfidf_the ai
+title_tfidf_the best
+title_tfidf_the day
+title_tfidf_the economy
+title_tfidf_the iphone
+title_tfidf_the supreme
+title_tfidf_therapy
+title_tfidf_these
+title_tfidf_this
+title_tfidf_tool
+title_tfidf_trade
+title_tfidf_treatment
+title_tfidf_troops
+title_tfidf_troops in
+title_tfidf_trump
+title_tfidf_trump says
+title_tfidf_trump tariffs
+title_tfidf_tv
+title_tfidf_ukraine
+title_tfidf_ukraine since
+title_tfidf_ukraine war
+title_tfidf_ukrainian
+title_tfidf_ukrainian drone
+title_tfidf_ultra
+title_tfidf_us
+title_tfidf_use
+title_tfidf_users
+title_tfidf_vaccine
+title_tfidf_vaccines
+title_tfidf_wall
+title_tfidf_war
+title_tfidf_war latest
+title_tfidf_watch
+title_tfidf_weight
+title_tfidf_west
+title_tfidf_west bank
+title_tfidf_white house
+title_tfidf_windows
+title_tfidf_windows 11
+title_tfidf_world
+title_tfidf_world cup
+title_tfidf_xbox
+title_tfidf_xi
+title_tfidf_you
+title_tfidf_you can
+title_tfidf_your
+title_tfidf_your iphone
+title_tfidf_zelensky
+title_tfidf_zelensky says
+body_tfidf_11 pro
+body_tfidf_18 pro
+body_tfidf_2022
+body_tfidf_4k
+body_tfidf_99
+body_tfidf_abortion
+body_tfidf_abu dhabi
+body_tfidf_access
+body_tfidf_accused
+body_tfidf_add
+body_tfidf_addiction
+body_tfidf_administration
+body_tfidf_adobe
+body_tfidf_ads
+body_tfidf_aerial
+body_tfidf_agency
+body_tfidf_agent
+body_tfidf_agentic
+body_tfidf_agentic ai
+body_tfidf_agents
+body_tfidf_aggression
+body_tfidf_agreement
+body_tfidf_ai
+body_tfidf_ai agent
+body_tfidf_ai agents
+body_tfidf_ai assistant
+body_tfidf_ai companies
+body_tfidf_ai features
+body_tfidf_ai generated
+body_tfidf_ai model
+body_tfidf_ai models
+body_tfidf_ai powered
+body_tfidf_ai systems
+body_tfidf_ai tools
+body_tfidf_aid
+body_tfidf_air defense
+body_tfidf_air defenses
+body_tfidf_air force
+body_tfidf_aircraft
+body_tfidf_airpods
+body_tfidf_airspace
+body_tfidf_al
+body_tfidf_album
+body_tfidf_alexa
+body_tfidf_allies
+body_tfidf_altman
+body_tfidf_amazon
+body_tfidf_amazon prime
+body_tfidf_amd
+body_tfidf_american
+body_tfidf_amid
+body_tfidf_android
+body_tfidf_android auto
+body_tfidf_anker
+body_tfidf_anthropic
+body_tfidf_anti
+body_tfidf_app
+body_tfidf_app store
+body_tfidf_apple
+body_tfidf_apple intelligence
+body_tfidf_apple tv
+body_tfidf_apple watch
+body_tfidf_apps
+body_tfidf_arabia
+body_tfidf_armed
+body_tfidf_armed forces
+body_tfidf_army
+body_tfidf_artillery
+body_tfidf_assets
+body_tfidf_assistant
+body_tfidf_attack
+body_tfidf_attacks
+body_tfidf_audio
+body_tfidf_authorities
+body_tfidf_automatically
+body_tfidf_available
+body_tfidf_bacteria
+body_tfidf_ball
+body_tfidf_ballistic
+body_tfidf_ballistic missile
+body_tfidf_ballistic missiles
+body_tfidf_ballot
+body_tfidf_bank
+body_tfidf_banking
+body_tfidf_banks
+body_tfidf_barrel
+body_tfidf_barrels
+body_tfidf_barrels day
+body_tfidf_batteries
+body_tfidf_battery
+body_tfidf_battery life
+body_tfidf_battlefield
+body_tfidf_beijing
+body_tfidf_belarus
+body_tfidf_belarusian
+body_tfidf_belgorod
+body_tfidf_best
+body_tfidf_best buy
+body_tfidf_best deals
+body_tfidf_beta
+body_tfidf_biden
+body_tfidf_bilateral
+body_tfidf_billion
+body_tfidf_billion rubles
+body_tfidf_bitcoin
+body_tfidf_black friday
+body_tfidf_black sea
+body_tfidf_blog
+body_tfidf_blood
+body_tfidf_blood pressure
+body_tfidf_bluetooth
+body_tfidf_body
+body_tfidf_border
+body_tfidf_borrowing
+body_tfidf_bpd
+body_tfidf_brain
+body_tfidf_brand
+body_tfidf_brent
+body_tfidf_browser
+body_tfidf_built
+body_tfidf_button
+body_tfidf_buy
+body_tfidf_camera
+body_tfidf_cameras
+body_tfidf_campaign
+body_tfidf_canada
+body_tfidf_canadian
+body_tfidf_cancer
+body_tfidf_candidate
+body_tfidf_candidates
+body_tfidf_capacity
+body_tfidf_capital
+body_tfidf_carbon
+body_tfidf_care
+body_tfidf_career
+body_tfidf_carney
+body_tfidf_cases
+body_tfidf_casualties
+body_tfidf_cdc
+body_tfidf_ceasefire
+body_tfidf_cells
+body_tfidf_cent
+body_tfidf_central
+body_tfidf_central bank
+body_tfidf_ceo
+body_tfidf_ces
+body_tfidf_champions
+body_tfidf_charger
+body_tfidf_charging
+body_tfidf_chat
+body_tfidf_chatbot
+body_tfidf_chatbots
+body_tfidf_chatgpt
+body_tfidf_children
+body_tfidf_china
+body_tfidf_chinese
+body_tfidf_chip
+body_tfidf_chips
+body_tfidf_chrome
+body_tfidf_chronic
+body_tfidf_citing
+body_tfidf_citizens
+body_tfidf_city
+body_tfidf_civilian
+body_tfidf_civilians
+body_tfidf_claimed
+body_tfidf_clancy
+body_tfidf_claude
+body_tfidf_clean energy
+body_tfidf_climate
+body_tfidf_climate change
+body_tfidf_clinic
+body_tfidf_clinical
+body_tfidf_clinics
+body_tfidf_cloud
+body_tfidf_club
+body_tfidf_cnet
+body_tfidf_coach
+body_tfidf_coal
+body_tfidf_code
+body_tfidf_codex
+body_tfidf_coding
+body_tfidf_color
+body_tfidf_colors
+body_tfidf_commander
+body_tfidf_committee
+body_tfidf_companies
+body_tfidf_company
+body_tfidf_compatible
+body_tfidf_compute
+body_tfidf_computer
+body_tfidf_computing
+body_tfidf_conflict
+body_tfidf_congress
+body_tfidf_congressional
+body_tfidf_content
+body_tfidf_cooperation
+body_tfidf_copilot
+body_tfidf_corruption
+body_tfidf_council
+body_tfidf_countries
+body_tfidf_country
+body_tfidf_court
+body_tfidf_covid
+body_tfidf_covid 19
+body_tfidf_cpu
+body_tfidf_crimea
+body_tfidf_crude
+body_tfidf_crude oil
+body_tfidf_crypto
+body_tfidf_cryptocurrency
+body_tfidf_cubic
+body_tfidf_cup
+body_tfidf_currency
+body_tfidf_custom
+body_tfidf_customers
+body_tfidf_cyber
+body_tfidf_cyber monday
+body_tfidf_damaged
+body_tfidf_data
+body_tfidf_data center
+body_tfidf_data centers
+body_tfidf_deals
+body_tfidf_death
+body_tfidf_deaths
+body_tfidf_debt
+body_tfidf_dec
+body_tfidf_deepmind
+body_tfidf_defence
+body_tfidf_defense
+body_tfidf_defense minister
+body_tfidf_defense ministry
+body_tfidf_defense systems
+body_tfidf_dementia
+body_tfidf_democracy
+body_tfidf_democrat
+body_tfidf_democratic
+body_tfidf_democrats
+body_tfidf_deposits
+body_tfidf_depression
+body_tfidf_deputy
+body_tfidf_design
+body_tfidf_desktop
+body_tfidf_developers
+body_tfidf_device
+body_tfidf_devices
+body_tfidf_dhabi
+body_tfidf_diabetes
+body_tfidf_diagnosed
+body_tfidf_diagnosis
+body_tfidf_diesel
+body_tfidf_diet
+body_tfidf_diplomacy
+body_tfidf_diplomatic
+body_tfidf_discount
+body_tfidf_discounts
+body_tfidf_disease
+body_tfidf_disease control
+body_tfidf_diseases
+body_tfidf_display
+body_tfidf_dmitry
+body_tfidf_dnipropetrovsk
+body_tfidf_doctor
+body_tfidf_doctors
+body_tfidf_dollar
+body_tfidf_donald
+body_tfidf_donald trump
+body_tfidf_donetsk
+body_tfidf_donetsk oblast
+body_tfidf_dose
+body_tfidf_dr
+body_tfidf_drone
+body_tfidf_drone attack
+body_tfidf_drone attacks
+body_tfidf_drones
+body_tfidf_drug
+body_tfidf_drugs
+body_tfidf_dublin
+body_tfidf_earbuds
+body_tfidf_earnings
+body_tfidf_east
+body_tfidf_eastern
+body_tfidf_easy
+body_tfidf_eclipse
+body_tfidf_economic
+body_tfidf_economic growth
+body_tfidf_economist
+body_tfidf_economists
+body_tfidf_economy
+body_tfidf_efficacy
+body_tfidf_efforts
+body_tfidf_election
+body_tfidf_elections
+body_tfidf_electric
+body_tfidf_electricity
+body_tfidf_emissions
+body_tfidf_end war
+body_tfidf_energy
+body_tfidf_energy infrastructure
+body_tfidf_energy prices
+body_tfidf_england
+body_tfidf_envoy
+body_tfidf_epa
+body_tfidf_eu
+body_tfidf_europe
+body_tfidf_european
+body_tfidf_ev
+body_tfidf_exchange
+body_tfidf_experience
+body_tfidf_export
+body_tfidf_exports
+body_tfidf_facilities
+body_tfidf_facility
+body_tfidf_family
+body_tfidf_fans
+body_tfidf_favorite
+body_tfidf_fda
+body_tfidf_feature
+body_tfidf_features
+body_tfidf_feb
+body_tfidf_february 2022
+body_tfidf_fed
+body_tfidf_federal
+body_tfidf_federal reserve
+body_tfidf_fedorov
+body_tfidf_feel
+body_tfidf_fever
+body_tfidf_fi
+body_tfidf_fighting
+body_tfidf_files
+body_tfidf_film
+body_tfidf_finance
+body_tfidf_financial
+body_tfidf_flu
+body_tfidf_fold
+body_tfidf_foldable
+body_tfidf_food
+body_tfidf_football
+body_tfidf_force
+body_tfidf_forces
+body_tfidf_foreign
+body_tfidf_foreign minister
+body_tfidf_foreign ministry
+body_tfidf_foreign policy
+body_tfidf_fossil
+body_tfidf_fossil fuel
+body_tfidf_fossil fuels
+body_tfidf_fox
+body_tfidf_fox news
+body_tfidf_fsb
+body_tfidf_fuel
+body_tfidf_fuels
+body_tfidf_funds
+body_tfidf_galaxy
+body_tfidf_galaxy fold
+body_tfidf_galaxy s26
+body_tfidf_gallon
+body_tfidf_game
+body_tfidf_games
+body_tfidf_gaming
+body_tfidf_gas
+body_tfidf_gas prices
+body_tfidf_gasoline
+body_tfidf_gaza
+body_tfidf_gdp
+body_tfidf_gemini
+body_tfidf_gen ai
+body_tfidf_general
+body_tfidf_general staff
+body_tfidf_generate
+body_tfidf_generated
+body_tfidf_generative
+body_tfidf_generative ai
+body_tfidf_genetic
+body_tfidf_glasses
+body_tfidf_global
+body_tfidf_global oil
+body_tfidf_glp
+body_tfidf_gmail
+body_tfidf_goods
+body_tfidf_google
+body_tfidf_google ai
+body_tfidf_google pixel
+body_tfidf_google says
+body_tfidf_gop
+body_tfidf_government
+body_tfidf_governor
+body_tfidf_gpt
+body_tfidf_gpu
+body_tfidf_graphics
+body_tfidf_greenhouse
+body_tfidf_greenland
+body_tfidf_grid
+body_tfidf_growth
+body_tfidf_gulf
+body_tfidf_gurman
+body_tfidf_hair
+body_tfidf_hamas
+body_tfidf_hardware
+body_tfidf_headphones
+body_tfidf_headset
+body_tfidf_health
+body_tfidf_health care
+body_tfidf_health human
+body_tfidf_health insurance
+body_tfidf_healthcare
+body_tfidf_healthy
+body_tfidf_heart
+body_tfidf_heat
+body_tfidf_hezbollah
+body_tfidf_hhs
+body_tfidf_higher
+body_tfidf_hike
+body_tfidf_hiv
+body_tfidf_hk
+body_tfidf_home
+body_tfidf_hong
+body_tfidf_hong kong
+body_tfidf_hormuz
+body_tfidf_hospital
+body_tfidf_hospitals
+body_tfidf_house
+body_tfidf_households
+body_tfidf_hugging
+body_tfidf_hugging face
+body_tfidf_humanitarian
+body_tfidf_hungary
+body_tfidf_illness
+body_tfidf_image
+body_tfidf_images
+body_tfidf_imf
+body_tfidf_immigration
+body_tfidf_immune
+body_tfidf_imports
+body_tfidf_inch
+body_tfidf_independent
+body_tfidf_index
+body_tfidf_infected
+body_tfidf_infection
+body_tfidf_infections
+body_tfidf_infectious
+body_tfidf_inflation
+body_tfidf_infrastructure
+body_tfidf_injured
+body_tfidf_insurance
+body_tfidf_insurers
+body_tfidf_intel
+body_tfidf_intelligence
+body_tfidf_interface
+body_tfidf_international
+body_tfidf_internet
+body_tfidf_invasion
+body_tfidf_invasion ukraine
+body_tfidf_investment
+body_tfidf_investor
+body_tfidf_investors
+body_tfidf_ion
+body_tfidf_ios
+body_tfidf_ios 27
+body_tfidf_ipad
+body_tfidf_iphone
+body_tfidf_iphone 15
+body_tfidf_iphone 16
+body_tfidf_iphone 17
+body_tfidf_iphone 18
+body_tfidf_iphones
+body_tfidf_ipo
+body_tfidf_iran
+body_tfidf_iran war
+body_tfidf_iranian
+body_tfidf_iraq
+body_tfidf_ireland
+body_tfidf_irish
+body_tfidf_israel
+body_tfidf_israeli
+body_tfidf_jan
+body_tfidf_just
+body_tfidf_justice
+body_tfidf_justices
+body_tfidf_kennedy
+body_tfidf_keyboard
+body_tfidf_kharkiv
+body_tfidf_kherson
+body_tfidf_killed
+body_tfidf_kilometers
+body_tfidf_kindle
+body_tfidf_kong
+body_tfidf_krasnodar
+body_tfidf_kremlin
+body_tfidf_kursk
+body_tfidf_kyiv
+body_tfidf_kyiv independent
+body_tfidf_labor market
+body_tfidf_laptop
+body_tfidf_laptops
+body_tfidf_large language
+body_tfidf_largest
+body_tfidf_lavrov
+body_tfidf_law
+body_tfidf_lawmakers
+body_tfidf_leader
+body_tfidf_leaders
+body_tfidf_league
+body_tfidf_lebanon
+body_tfidf_lenovo
+body_tfidf_lets
+body_tfidf_life
+body_tfidf_like
+body_tfidf_lineup
+body_tfidf_linux
+body_tfidf_lithium
+body_tfidf_liver
+body_tfidf_ll
+body_tfidf_llms
+body_tfidf_lng
+body_tfidf_long range
+body_tfidf_love
+body_tfidf_lung
+body_tfidf_m4
+body_tfidf_m5
+body_tfidf_mac
+body_tfidf_macbook
+body_tfidf_macbook air
+body_tfidf_macbook neo
+body_tfidf_macbook pro
+body_tfidf_macos
+body_tfidf_magsafe
+body_tfidf_malaria
+body_tfidf_market
+body_tfidf_markets
+body_tfidf_match
+body_tfidf_max
+body_tfidf_measles
+body_tfidf_medicaid
+body_tfidf_medical
+body_tfidf_medicare
+body_tfidf_medication
+body_tfidf_medications
+body_tfidf_medicine
+body_tfidf_medicines
+body_tfidf_meeting
+body_tfidf_memory
+body_tfidf_mental
+body_tfidf_mental health
+body_tfidf_meta
+body_tfidf_meta ai
+body_tfidf_metric tons
+body_tfidf_microsoft
+body_tfidf_middle east
+body_tfidf_midterm
+body_tfidf_mifepristone
+body_tfidf_military
+body_tfidf_million barrels
+body_tfidf_mini
+body_tfidf_minister
+body_tfidf_ministry
+body_tfidf_ministry said
+body_tfidf_missile
+body_tfidf_missiles
+body_tfidf_mobile
+body_tfidf_mode
+body_tfidf_model
+body_tfidf_models
+body_tfidf_monetary
+body_tfidf_mop
+body_tfidf_mortality
+body_tfidf_mortgage
+body_tfidf_moscow
+body_tfidf_moscow times
+body_tfidf_movie
+body_tfidf_mr
+body_tfidf_mr trump
+body_tfidf_muse
+body_tfidf_music
+body_tfidf_musk
+body_tfidf_national
+body_tfidf_national security
+body_tfidf_nato
+body_tfidf_natural gas
+body_tfidf_nbc select
+body_tfidf_negotiations
+body_tfidf_neo
+body_tfidf_netanyahu
+body_tfidf_netflix
+body_tfidf_new
+body_tfidf_new ai
+body_tfidf_new features
+body_tfidf_news agency
+body_tfidf_nfl
+body_tfidf_nintendo
+body_tfidf_noise
+body_tfidf_notifications
+body_tfidf_nov
+body_tfidf_nuclear
+body_tfidf_nuclear power
+body_tfidf_nvidia
+body_tfidf_obesity
+body_tfidf_oblast
+body_tfidf_occupied
+body_tfidf_odesa
+body_tfidf_offers
+body_tfidf_official
+body_tfidf_officials
+body_tfidf_oil
+body_tfidf_oil gas
+body_tfidf_oil prices
+body_tfidf_oil refinery
+body_tfidf_oled
+body_tfidf_oleksandr
+body_tfidf_open source
+body_tfidf_openai
+body_tfidf_openclaw
+body_tfidf_opposition
+body_tfidf_option
+body_tfidf_options
+body_tfidf_orban
+body_tfidf_os
+body_tfidf_oura
+body_tfidf_outbreak
+body_tfidf_outbreaks
+body_tfidf_outkick
+body_tfidf_overnight
+body_tfidf_palestinian
+body_tfidf_palestinians
+body_tfidf_pandemic
+body_tfidf_panels
+body_tfidf_parliament
+body_tfidf_parliamentary
+body_tfidf_party
+body_tfidf_past day
+body_tfidf_patient
+body_tfidf_patients
+body_tfidf_patriot
+body_tfidf_pc
+body_tfidf_pcs
+body_tfidf_peace
+body_tfidf_peace deal
+body_tfidf_peace talks
+body_tfidf_people injured
+body_tfidf_performance
+body_tfidf_perplexity
+body_tfidf_peskov
+body_tfidf_petrol
+body_tfidf_petroleum
+body_tfidf_pharmaceutical
+body_tfidf_phone
+body_tfidf_phones
+body_tfidf_photos
+body_tfidf_physician
+body_tfidf_physicians
+body_tfidf_pills
+body_tfidf_pipeline
+body_tfidf_pixel
+body_tfidf_pixel 10
+body_tfidf_pixel 11
+body_tfidf_planet
+body_tfidf_plant
+body_tfidf_plants
+body_tfidf_play
+body_tfidf_player
+body_tfidf_players
+body_tfidf_plus
+body_tfidf_poland
+body_tfidf_police
+body_tfidf_policy
+body_tfidf_policymakers
+body_tfidf_polish
+body_tfidf_political
+body_tfidf_politics
+body_tfidf_polls
+body_tfidf_pollution
+body_tfidf_portable
+body_tfidf_power
+body_tfidf_power bank
+body_tfidf_power banks
+body_tfidf_power plant
+body_tfidf_power plants
+body_tfidf_power station
+body_tfidf_power stations
+body_tfidf_powered
+body_tfidf_pregnancy
+body_tfidf_premier league
+body_tfidf_premium
+body_tfidf_prescription
+body_tfidf_president
+body_tfidf_president donald
+body_tfidf_president trump
+body_tfidf_president vladimir
+body_tfidf_president volodymyr
+body_tfidf_presidential
+body_tfidf_prevention
+body_tfidf_price
+body_tfidf_prices
+body_tfidf_prime day
+body_tfidf_prime minister
+body_tfidf_prison
+body_tfidf_prisoners
+body_tfidf_privacy
+body_tfidf_pro
+body_tfidf_pro max
+body_tfidf_processor
+body_tfidf_product
+body_tfidf_products
+body_tfidf_prompt
+body_tfidf_prompts
+body_tfidf_proposal
+body_tfidf_public health
+body_tfidf_putin
+body_tfidf_qualcomm
+body_tfidf_quality
+body_tfidf_rally
+body_tfidf_ram
+body_tfidf_rate
+body_tfidf_rates
+body_tfidf_ray ban
+body_tfidf_recession
+body_tfidf_refineries
+body_tfidf_refinery
+body_tfidf_refresh
+body_tfidf_refresh rate
+body_tfidf_regime
+body_tfidf_region
+body_tfidf_regional
+body_tfidf_regions
+body_tfidf_relations
+body_tfidf_renewable
+body_tfidf_renewable energy
+body_tfidf_reported
+body_tfidf_reporters
+body_tfidf_republican
+body_tfidf_republicans
+body_tfidf_researchers
+body_tfidf_reserve
+body_tfidf_respiratory
+body_tfidf_rights
+body_tfidf_risk
+body_tfidf_robot
+body_tfidf_robot vacuum
+body_tfidf_robots
+body_tfidf_roku
+body_tfidf_rtx
+body_tfidf_rubio
+body_tfidf_ruble
+body_tfidf_rubles
+body_tfidf_russia
+body_tfidf_russia defense
+body_tfidf_russia launched
+body_tfidf_russia lost
+body_tfidf_russia scale
+body_tfidf_russia ukraine
+body_tfidf_russia war
+body_tfidf_russian
+body_tfidf_russian attacks
+body_tfidf_russian authorities
+body_tfidf_russian drone
+body_tfidf_russian forces
+body_tfidf_russian military
+body_tfidf_russian occupied
+body_tfidf_russian oil
+body_tfidf_russian president
+body_tfidf_russian troops
+body_tfidf_russians
+body_tfidf_s26
+body_tfidf_said
+body_tfidf_said russia
+body_tfidf_said russian
+body_tfidf_said ukraine
+body_tfidf_sale
+body_tfidf_samsung
+body_tfidf_samsung galaxy
+body_tfidf_sanctioned
+body_tfidf_sanctions
+body_tfidf_saudi
+body_tfidf_saudi arabia
+body_tfidf_savings
+body_tfidf_says
+body_tfidf_sbu
+body_tfidf_scale
+body_tfidf_scale invasion
+body_tfidf_scale war
+body_tfidf_scientists
+body_tfidf_screen
+body_tfidf_sea
+body_tfidf_search
+body_tfidf_season
+body_tfidf_sec
+body_tfidf_secretary
+body_tfidf_sector
+body_tfidf_securities
+body_tfidf_security
+body_tfidf_security service
+body_tfidf_select
+body_tfidf_sen
+body_tfidf_senate
+body_tfidf_sergei
+body_tfidf_series
+body_tfidf_settings
+body_tfidf_settlers
+body_tfidf_setup
+body_tfidf_shadow fleet
+body_tfidf_shahed
+body_tfidf_shareholders
+body_tfidf_shares
+body_tfidf_ships
+body_tfidf_sick
+body_tfidf_siri
+body_tfidf_siri ai
+body_tfidf_skin
+body_tfidf_sleep
+body_tfidf_smart
+body_tfidf_smart glasses
+body_tfidf_smart home
+body_tfidf_smartphone
+body_tfidf_snapdragon
+body_tfidf_software
+body_tfidf_solar
+body_tfidf_solar panels
+body_tfidf_soldiers
+body_tfidf_sony
+body_tfidf_sora
+body_tfidf_sound
+body_tfidf_southern
+body_tfidf_soviet
+body_tfidf_spacex
+body_tfidf_spill
+body_tfidf_sports
+body_tfidf_spotify
+body_tfidf_spring sale
+body_tfidf_stadium
+body_tfidf_star
+body_tfidf_startup
+body_tfidf_state
+body_tfidf_states
+body_tfidf_steam
+body_tfidf_stock
+body_tfidf_stock market
+body_tfidf_stocks
+body_tfidf_storage
+body_tfidf_store
+body_tfidf_strait
+body_tfidf_strait hormuz
+body_tfidf_strategic
+body_tfidf_streaming
+body_tfidf_strike
+body_tfidf_strikes
+body_tfidf_struck
+body_tfidf_studio
+body_tfidf_study
+body_tfidf_subscription
+body_tfidf_summit
+body_tfidf_sumy
+body_tfidf_supplies
+body_tfidf_supply
+body_tfidf_support ukraine
+body_tfidf_supreme
+body_tfidf_supreme court
+body_tfidf_surgery
+body_tfidf_switch
+body_tfidf_symptoms
+body_tfidf_syria
+body_tfidf_tab
+body_tfidf_tablet
+body_tfidf_taiwan
+body_tfidf_talks
+body_tfidf_tanker
+body_tfidf_tankers
+body_tfidf_tanks
+body_tfidf_tap
+body_tfidf_targeted
+body_tfidf_targets
+body_tfidf_tariff
+body_tfidf_tariffs
+body_tfidf_tasks
+body_tfidf_team
+body_tfidf_tech
+body_tfidf_technology
+body_tfidf_tehran
+body_tfidf_telegram
+body_tfidf_territorial
+body_tfidf_territories
+body_tfidf_territory
+body_tfidf_tesla
+body_tfidf_tested
+body_tfidf_testing
+body_tfidf_text
+body_tfidf_therapy
+body_tfidf_ties
+body_tfidf_tissue
+body_tfidf_told
+body_tfidf_told kyiv
+body_tfidf_tool
+body_tfidf_tools
+body_tfidf_tour
+body_tfidf_tournament
+body_tfidf_trade
+body_tfidf_trading
+body_tfidf_trailer
+body_tfidf_treasury
+body_tfidf_treatment
+body_tfidf_treatments
+body_tfidf_trials
+body_tfidf_trillion
+body_tfidf_trillion rubles
+body_tfidf_troops
+body_tfidf_trump
+body_tfidf_trump administration
+body_tfidf_trump said
+body_tfidf_trump tariffs
+body_tfidf_tv
+body_tfidf_tvs
+body_tfidf_uae
+body_tfidf_ukraine
+body_tfidf_ukraine russia
+body_tfidf_ukrainian
+body_tfidf_ukrainian drone
+body_tfidf_ukrainian drones
+body_tfidf_ukrainian forces
+body_tfidf_ukrainian officials
+body_tfidf_ukrainian president
+body_tfidf_ukrainians
+body_tfidf_ultra
+body_tfidf_unemployment
+body_tfidf_united
+body_tfidf_united states
+body_tfidf_unmanned
+body_tfidf_update
+body_tfidf_updates
+body_tfidf_upgrade
+body_tfidf_usb
+body_tfidf_use
+body_tfidf_use ai
+body_tfidf_user
+body_tfidf_users
+body_tfidf_using
+body_tfidf_using ai
+body_tfidf_vaccination
+body_tfidf_vaccine
+body_tfidf_vaccines
+body_tfidf_vacuum
+body_tfidf_valuation
+body_tfidf_vance
+body_tfidf_ve
+body_tfidf_venezuela
+body_tfidf_version
+body_tfidf_vessels
+body_tfidf_video
+body_tfidf_virus
+body_tfidf_viruses
+body_tfidf_vision pro
+body_tfidf_visit
+body_tfidf_vladimir
+body_tfidf_vladimir putin
+body_tfidf_voice
+body_tfidf_volodymyr
+body_tfidf_volodymyr zelensky
+body_tfidf_vote
+body_tfidf_voter
+body_tfidf_voters
+body_tfidf_votes
+body_tfidf_voting
+body_tfidf_vpn
+body_tfidf_walmart
+body_tfidf_want
+body_tfidf_war
+body_tfidf_war iran
+body_tfidf_war ukraine
+body_tfidf_warming
+body_tfidf_washington
+body_tfidf_watch
+body_tfidf_watch series
+body_tfidf_weapons
+body_tfidf_web
+body_tfidf_weight
+body_tfidf_weight loss
+body_tfidf_west bank
+body_tfidf_western
+body_tfidf_white
+body_tfidf_white house
+body_tfidf_wi
+body_tfidf_wi fi
+body_tfidf_wind
+body_tfidf_windows
+body_tfidf_windows 11
+body_tfidf_wireless
+body_tfidf_witkoff
+body_tfidf_women
+body_tfidf_world cup
+body_tfidf_wounded
+body_tfidf_wwdc
+body_tfidf_xai
+body_tfidf_xbox
+body_tfidf_xi
+body_tfidf_yields
+body_tfidf_youtube
+body_tfidf_zaporizhzhia
+body_tfidf_zdnet
+body_tfidf_zelensky
+body_tfidf_zelensky said
+body_tfidf_zelenskyy
+body_tfidf_zuckerberg
