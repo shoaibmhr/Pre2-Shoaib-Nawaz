@@ -1,0 +1,8 @@
+Model,Val Accuracy,Macro F1,Weighted F1,Train time (s)
+Linear SVM (LinearSVC),0.8958,0.8013,0.8974,84.3
+AutoGluon (15 min),0.8903,0.7741,0.889,377.6
+Logistic Regression,0.8675,0.7424,0.8728,33.7
+Random Forest,0.8441,0.7006,0.8408,163.8
+Decision Tree,0.7151,0.5521,0.7266,63.2
+"SVM (RBF, 15k subsample)",0.6193,0.4324,0.6359,347.3
+KNN (k=5),0.5894,0.3108,0.5733,0.1
